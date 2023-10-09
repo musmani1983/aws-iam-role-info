@@ -11,3 +11,5 @@ __pycache__/
 *.csv
 iam_role_info.csv
 iam_role_info.json
+
+*.pyc
